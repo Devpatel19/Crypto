@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "53406676472",
+    "project_id": "cryptography1-cea16",
+    "storage_bucket": "cryptography1-cea16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53406676472:android:a36a1c46bd6f3d45b0d20d",
+        "android_client_info": {
+          "package_name": "com.example.cryptoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53406676472-bboiu0agsitd32322mhm8mqpjdnlq0hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNcIQIfCiF7XH_g-FgD7dKfv6IMTxIIpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53406676472-bboiu0agsitd32322mhm8mqpjdnlq0hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53406676472:android:5d2476b1599774d9b0d20d",
+        "android_client_info": {
+          "package_name": "com.example.cryptography1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53406676472-bboiu0agsitd32322mhm8mqpjdnlq0hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNcIQIfCiF7XH_g-FgD7dKfv6IMTxIIpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53406676472-bboiu0agsitd32322mhm8mqpjdnlq0hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
